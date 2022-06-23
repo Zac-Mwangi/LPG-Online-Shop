@@ -40,9 +40,10 @@ function getProduct_type() {
           getProduct(data[i].type);
         });
       }
-
+      let cartLi = document.createElement("li");
       cartAmount.innerText = "Cart : " + amount;
-      links.appendChild(cartAmount);
+      cartLi.appendChild(cartAmount)
+      links.appendChild(cartLi);
     });
 }
 

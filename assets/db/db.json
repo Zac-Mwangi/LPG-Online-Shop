@@ -1,14 +1,6 @@
 {
   "product": [
     {
-      "id": "37",
-      "product_type": "13kg",
-      "product_name": "Afri 13kg",
-      "product_buying_price": "2392",
-      "retail_price": "2700",
-      "image": "https://www.gobeba.com/wp-content/uploads/2019/03/afrigas-6kg-200x258.jpg"
-    },
-    {
       "id": "16",
       "product_type": "6kg",
       "product_name": "Afri 6kg",

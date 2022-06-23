@@ -5,17 +5,18 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
-
     background-color: #fff;
     position: fixed;
     top: 0;
+    align-content: center;
     width: 100%;
 }
 
 nav>.links>ul {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     margin-right: 20px;
+    align-items: center;
     list-style: none;
 }
 
@@ -61,4 +62,12 @@ nav>.links>ul {
 
 .add_to_cart>img {
     width: 13px
+}
+
+button {
+    background: linear-gradient(45deg, #8b7c7c, #EC4067);
+    border-radius: 6px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
 }
