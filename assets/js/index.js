@@ -4,6 +4,8 @@ const url = "http://localhost:3000/";
 
 getProduct_type();
 
+getProduct("6kg")
+
 function getProduct_type() {
   fetch(url + "product_type/")
     .then(function (response) {
