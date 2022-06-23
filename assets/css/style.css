@@ -38,10 +38,12 @@ nav>.links>ul {
     border: 2px solid rgb(209, 207, 207);
     padding: 5px;
     margin: 5px;
+    width: 40vh;
 }
 
 .content>.product>img {
-    width: 40vh;
+    /* width: 40vh; */
+    height: 25vh;
 }
 
 .add_to_cart {

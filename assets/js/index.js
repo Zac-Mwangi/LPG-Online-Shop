@@ -51,8 +51,7 @@ function getProduct(type) {
           productDiv.className = "product";
 
           let img = document.createElement("img");
-          img.src =
-            "https://www.ship-technology.com/wp-content/uploads/sites/8/2020/11/shutterstock_713663425-1.jpg";
+          img.src = data[i].image;
 
           let p1 = document.createElement("p");
           p1.innerText = data[i].product_name;
