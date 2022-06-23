@@ -76,7 +76,7 @@ nav>.links>ul {
 
 .add_to_cart>img {
     width: 20px;
-    
+
 }
 
 button {
@@ -123,12 +123,13 @@ button {
     margin-bottom: 10px;
 }
 
-#ph{
+#ph {
     margin: 10px;
     padding: 10px;
     display: flex;
     justify-content: center;
 }
-.product_content{
+
+.product_content {
     background-color: #f6f5f5;
 }

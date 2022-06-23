@@ -36,25 +36,24 @@ function getProduct_type() {
         li.addEventListener("click", () => {
           // heading
 
-        //   li.style.color = "#EC4067"
-        //   li.style.fontSize = "25px"
-          
+          //   li.style.color = "#EC4067"
+          //   li.style.fontSize = "25px"
+
           let head = document.getElementById("product_heading");
           head.innerText = data[i].type + " Available";
           getProduct(data[i].type);
-
         });
 
         // list
         li.addEventListener("mouseover", () => {
           // h.style.color = "#EDD927";
-          li.style.color = "#EC4067"
-          li.style.fontSize = "25px"
+          li.style.color = "#EC4067";
+          li.style.fontSize = "25px";
         });
         li.addEventListener("mouseout", () => {
           // h.style.color = "white";
-          li.style.color = "#fff"
-          li.style.fontSize = "20px"
+          li.style.color = "#fff";
+          li.style.fontSize = "20px";
         });
       }
       let cartLi = document.createElement("li");
@@ -101,14 +100,14 @@ function getProduct(type) {
           btn.className = "add_to_cart";
           btn.id = "add_to_cart";
 
-
-          let br = document.createElement("br")
-          let br2 = document.createElement("br")
+          let br = document.createElement("br");
+          let br2 = document.createElement("br");
 
           let img_cart = document.createElement("img");
-          img_cart.src = "https://cdn-icons-png.flaticon.com/512/3737/3737151.png"
+          img_cart.src =
+            "https://cdn-icons-png.flaticon.com/512/3737/3737151.png";
 
-          btn.appendChild(img_cart)
+          btn.appendChild(img_cart);
 
           productDiv.appendChild(img);
           productDiv.appendChild(br);
@@ -131,11 +130,9 @@ function getProduct(type) {
 
           btn.addEventListener("mouseover", () => {
             btn.style.color = "#000";
-            
           });
           btn.addEventListener("mouseout", () => {
             btn.style.color = "white";
-            
           });
         }
       }
