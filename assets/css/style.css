@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Nunito';
+}
 
 nav {
     display: flex;
@@ -29,7 +31,6 @@ nav>.links>ul {
 .content {
     display: flex;
     justify-content: space-around;
-    padding: 15px;
     flex-wrap: wrap;
 }
 
@@ -42,8 +43,15 @@ nav>.links>ul {
 .content>.product>img {
     width: 40vh;
 }
-.add_to_cart{
+
+.add_to_cart {
     background-color: #fff;
     border-color: none;
     border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.add_to_cart>img {
+    width: 11px
 }
