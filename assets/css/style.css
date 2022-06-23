@@ -39,11 +39,16 @@ nav>.links>ul {
     padding: 5px;
     margin: 5px;
     width: 40vh;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    align-content: center;
 }
 
 .content>.product>img {
     /* width: 40vh; */
-    height: 25vh;
+    height: 35vh;
+    border: 2px solid red;
 }
 
 .add_to_cart {
