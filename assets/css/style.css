@@ -5,18 +5,22 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
-    background-color: #fff;
+    background-color: rgba(39, 38, 38, 0.904);
     position: fixed;
     top: 0;
     align-content: center;
     width: 100%;
+    font-size: 20px;
 }
 
 nav>.links>ul {
     display: flex;
     gap: 20px;
+    color: #fff;
     margin-right: 20px;
     align-items: center;
+    cursor:pointer;
+
     list-style: none;
 }
 
@@ -69,5 +73,6 @@ button {
     border-radius: 6px;
     padding: 10px 20px;
     text-decoration: none;
+    cursor:pointer;
     color: #fff;
 }

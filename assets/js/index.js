@@ -35,14 +35,31 @@ function getProduct_type() {
 
         li.addEventListener("click", () => {
           // heading
+
+        //   li.style.color = "#EC4067"
+        //   li.style.fontSize = "25px"
+          
           let head = document.getElementById("product_heading");
           head.innerText = data[i].type + " Available";
           getProduct(data[i].type);
+
+        });
+
+        // list
+        li.addEventListener("mouseover", () => {
+          // h.style.color = "#EDD927";
+          li.style.color = "#EC4067"
+          li.style.fontSize = "25px"
+        });
+        li.addEventListener("mouseout", () => {
+          // h.style.color = "white";
+          li.style.color = "#fff"
+          li.style.fontSize = "20px"
         });
       }
       let cartLi = document.createElement("li");
       cartAmount.innerText = "Cart : " + amount;
-      cartLi.appendChild(cartAmount)
+      cartLi.appendChild(cartAmount);
       links.appendChild(cartLi);
     });
 }
@@ -70,7 +87,7 @@ function getProduct(type) {
 
           let img = document.createElement("img");
           img.src = data[i].image;
-        //   img_divvv.appendChild(img)
+          //   img_divvv.appendChild(img)
 
           let p1 = document.createElement("p");
           p1.innerText = data[i].product_name;
@@ -107,11 +124,12 @@ function getProduct(type) {
 
           btn.addEventListener("mouseover", () => {
             // h.style.color = "#EDD927";
-            btn.style.padding = "20px"
+            btn.style.backgroundColor = "linear-gradient(45deg, #000, #EC4067)";
           });
           btn.addEventListener("mouseout", () => {
             // h.style.color = "white";
-            btn.style.padding = "10px"
+            btn.style.backgroundColor =
+              "linear-gradient(45deg, #8b7c7c, #EC4067)";
           });
         }
       }
