@@ -1,44 +1,20 @@
 {
   "product": [
     {
-      "id": "67",
-      "product_type": "3kg",
-      "product_name": "3kg Grill",
-      "product_buying_price": "150",
-      "retail_price": "500",
-      "wholesale_price": "350"
-    },
-    {
-      "id": "36",
-      "product_type": "13kg",
-      "product_name": "Afri 13kg Cylinder",
-      "product_buying_price": "4200",
-      "retail_price": "2700",
-      "wholesale_price": "2650"
-    },
-    {
       "id": "37",
       "product_type": "13kg",
-      "product_name": "Afri 13kg Refill",
+      "product_name": "Afri 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2680"
-    },
-    {
-      "id": "15",
-      "product_type": "6kg",
-      "product_name": "Afri 6kg Cylinder",
-      "product_buying_price": "2500",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2680"
     },
     {
       "id": "16",
       "product_type": "6kg",
-      "product_name": "Afri 6kg Refill",
+      "product_name": "Afri 6kg",
       "product_buying_price": "1104",
       "retail_price": "1250",
-      "wholesale_price": "1250"
+      "image": "1250"
     },
     {
       "id": "74",
@@ -46,55 +22,31 @@
       "product_name": "ATF 1/2lt",
       "product_buying_price": "180",
       "retail_price": "250",
-      "wholesale_price": "250"
-    },
-    {
-      "id": "65",
-      "product_type": "13kg",
-      "product_name": "Bonoko 13kg Cylinder",
-      "product_buying_price": "0",
-      "retail_price": "0",
-      "wholesale_price": "0"
+      "image": "250"
     },
     {
       "id": "66",
       "product_type": "13kg",
-      "product_name": "Bonoko 13kg Refill",
+      "product_name": "Bonoko 13kg",
       "product_buying_price": "0",
       "retail_price": "0",
-      "wholesale_price": "0"
-    },
-    {
-      "id": "69",
-      "product_type": "3kg",
-      "product_name": "Bonoko 3kg Cylinder",
-      "product_buying_price": "0",
-      "retail_price": "0",
-      "wholesale_price": "0"
+      "image": "0"
     },
     {
       "id": "70",
       "product_type": "3kg",
-      "product_name": "Bonoko 3kg Refill",
+      "product_name": "Bonoko 3kg",
       "product_buying_price": "0",
       "retail_price": "0",
-      "wholesale_price": "0"
-    },
-    {
-      "id": "63",
-      "product_type": "6kg",
-      "product_name": "Bonoko 6kg Cylinder",
-      "product_buying_price": "0",
-      "retail_price": "0",
-      "wholesale_price": "0"
+      "image": "0"
     },
     {
       "id": "64",
       "product_type": "6kg",
-      "product_name": "Bonoko 6kg Refill",
+      "product_name": "Bonoko 6kg",
       "product_buying_price": "0",
       "retail_price": "0",
-      "wholesale_price": "0"
+      "image": "0"
     },
     {
       "id": "56",
@@ -102,7 +54,7 @@
       "product_name": "Burner Capson",
       "product_buying_price": "486",
       "retail_price": "1100",
-      "wholesale_price": "1100"
+      "image": "1100"
     },
     {
       "id": "55",
@@ -110,7 +62,7 @@
       "product_name": "Burner Ccb",
       "product_buying_price": "125",
       "retail_price": "500",
-      "wholesale_price": "50"
+      "image": "50"
     },
     {
       "id": "57",
@@ -118,7 +70,7 @@
       "product_name": "Burner SunGas",
       "product_buying_price": "125",
       "retail_price": "500",
-      "wholesale_price": "500"
+      "image": "500"
     },
     {
       "id": "82",
@@ -126,7 +78,7 @@
       "product_name": "D.safari 1/2lt",
       "product_buying_price": "135",
       "retail_price": "150",
-      "wholesale_price": "150"
+      "image": "150"
     },
     {
       "id": "87",
@@ -134,7 +86,7 @@
       "product_name": "Defectives Burners",
       "product_buying_price": "0",
       "retail_price": "0",
-      "wholesale_price": "0"
+      "image": "0"
     },
     {
       "id": "78",
@@ -142,7 +94,7 @@
       "product_name": "Diesel Safari 1lt",
       "product_buying_price": "270",
       "retail_price": "350",
-      "wholesale_price": "350"
+      "image": "350"
     },
     {
       "id": "81",
@@ -150,7 +102,7 @@
       "product_name": "Gear Oil 1lt",
       "product_buying_price": "300",
       "retail_price": "400",
-      "wholesale_price": "400"
+      "image": "400"
     },
     {
       "id": "84",
@@ -158,7 +110,7 @@
       "product_name": "Grease Ep2",
       "product_buying_price": "520",
       "retail_price": "600",
-      "wholesale_price": "600"
+      "image": "600"
     },
     {
       "id": "83",
@@ -166,7 +118,7 @@
       "product_name": "Grease Ep3 3kg",
       "product_buying_price": "1400",
       "retail_price": "1800",
-      "wholesale_price": "1800"
+      "image": "1800"
     },
     {
       "id": "80",
@@ -174,7 +126,7 @@
       "product_name": "Grease Universal 1/2kg",
       "product_buying_price": "180",
       "retail_price": "250",
-      "wholesale_price": "250"
+      "image": "250"
     },
     {
       "id": "58",
@@ -182,7 +134,7 @@
       "product_name": "Grills Black",
       "product_buying_price": "250",
       "retail_price": "600",
-      "wholesale_price": "600"
+      "image": "600"
     },
     {
       "id": "59",
@@ -190,39 +142,23 @@
       "product_name": "Grills Grey",
       "product_buying_price": "135",
       "retail_price": "500",
-      "wholesale_price": "500"
-    },
-    {
-      "id": "30",
-      "product_type": "13kg",
-      "product_name": "Hashi 13kg Cylinder",
-      "product_buying_price": "3700",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "500"
     },
     {
       "id": "31",
       "product_type": "13kg",
-      "product_name": "Hashi 13kg Refill",
+      "product_name": "Hashi 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "9",
-      "product_type": "6kg",
-      "product_name": "Hashi 6kg Cylinder",
-      "product_buying_price": "2000",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "10",
       "product_type": "6kg",
-      "product_name": "Hashi 6kg Refill",
+      "product_name": "Hashi 6kg",
       "product_buying_price": "1104",
       "retail_price": "1250",
-      "wholesale_price": "1250"
+      "image": "1250"
     },
     {
       "id": "79",
@@ -230,39 +166,23 @@
       "product_name": "Hx5 1lt",
       "product_buying_price": "420",
       "retail_price": "500",
-      "wholesale_price": "500"
-    },
-    {
-      "id": "23",
-      "product_type": "13kg",
-      "product_name": "K.gas 13kg Cylinder",
-      "product_buying_price": "4200",
-      "retail_price": "4400",
-      "wholesale_price": "4400"
+      "image": "500"
     },
     {
       "id": "24",
       "product_type": "13kg",
-      "product_name": "K.gas 13kg Refill",
+      "product_name": "K.gas 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "1",
-      "product_type": "6kg",
-      "product_name": "K.gas 6kg Cylinder",
-      "product_buying_price": "3000",
-      "retail_price": "3200",
-      "wholesale_price": "3200"
+      "image": "2700"
     },
     {
       "id": "2",
       "product_type": "6kg",
-      "product_name": "K.gas 6kg Refill",
+      "product_name": "K.gas 6kg",
       "product_buying_price": "1104",
       "retail_price": "1400",
-      "wholesale_price": "1250"
+      "image": "1250"
     },
     {
       "id": "62",
@@ -270,103 +190,55 @@
       "product_name": "Lpg Pipes 2m",
       "product_buying_price": "150",
       "retail_price": "500",
-      "wholesale_price": "500"
-    },
-    {
-      "id": "38",
-      "product_type": "13kg",
-      "product_name": "Mix 13kg Cylinder",
-      "product_buying_price": "3500",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "500"
     },
     {
       "id": "39",
       "product_type": "13kg",
-      "product_name": "Mix 13kg Refill",
+      "product_name": "Mix 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "17",
-      "product_type": "6kg",
-      "product_name": "Mix 6kg Cylinder",
-      "product_buying_price": "2000",
-      "retail_price": "1400",
-      "wholesale_price": "1250"
+      "image": "2700"
     },
     {
       "id": "18",
       "product_type": "6kg",
-      "product_name": "Mix 6kg Refill",
+      "product_name": "Mix 6kg",
       "product_buying_price": "1104",
       "retail_price": "1400",
-      "wholesale_price": "1250"
-    },
-    {
-      "id": "32",
-      "product_type": "13kg",
-      "product_name": "Mwanga 13kg Cylinder",
-      "product_buying_price": "3600",
-      "retail_price": "2700",
-      "wholesale_price": "2700"
+      "image": "1250"
     },
     {
       "id": "33",
       "product_type": "13kg",
-      "product_name": "Mwanga 13kg Refill",
+      "product_name": "Mwanga 13kg",
       "product_buying_price": "2288",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "11",
-      "product_type": "6kg",
-      "product_name": "Mwanga 6kg Cylinder",
-      "product_buying_price": "2500",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "12",
       "product_type": "6kg",
-      "product_name": "Mwanga 6kg Refill",
+      "product_name": "Mwanga 6kg",
       "product_buying_price": "1056",
       "retail_price": "1400",
-      "wholesale_price": "1250"
-    },
-    {
-      "id": "25",
-      "product_type": "13kg",
-      "product_name": "Ola 13kg Cylinder",
-      "product_buying_price": "2200",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "1250"
     },
     {
       "id": "46",
       "product_type": "13kg",
-      "product_name": "Ola 13kg Refill",
+      "product_name": "Ola 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "3",
-      "product_type": "6kg",
-      "product_name": "Ola 6kg Cylinder",
-      "product_buying_price": "2800",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "4",
       "product_type": "6kg",
-      "product_name": "Ola 6kg Refill",
+      "product_name": "Ola 6kg",
       "product_buying_price": "1104",
       "retail_price": "1400",
-      "wholesale_price": "1250"
+      "image": "1250"
     },
     {
       "id": "71",
@@ -374,7 +246,7 @@
       "product_name": "Petrol Safari 0.5ltr",
       "product_buying_price": "120",
       "retail_price": "160",
-      "wholesale_price": "160"
+      "image": "160"
     },
     {
       "id": "72",
@@ -382,7 +254,7 @@
       "product_name": "Petrol Safari 1ltr",
       "product_buying_price": "250",
       "retail_price": "300",
-      "wholesale_price": "300"
+      "image": "300"
     },
     {
       "id": "73",
@@ -390,39 +262,23 @@
       "product_name": "Petrol Safari 4ltrs",
       "product_buying_price": "1080",
       "retail_price": "1300",
-      "wholesale_price": "1300"
-    },
-    {
-      "id": "28",
-      "product_type": "13kg",
-      "product_name": "Pro 13kg Cylinder",
-      "product_buying_price": "3500",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "1300"
     },
     {
       "id": "29",
       "product_type": "13kg",
-      "product_name": "Pro 13kg Refill",
+      "product_name": "Pro 13kg",
       "product_buying_price": "2626",
       "retail_price": "2750",
-      "wholesale_price": "2750"
-    },
-    {
-      "id": "7",
-      "product_type": "6kg",
-      "product_name": "Pro 6kg Cylinder",
-      "product_buying_price": "1500",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2750"
     },
     {
       "id": "8",
       "product_type": "6kg",
-      "product_name": "Pro 6kg Refill",
+      "product_name": "Pro 6kg",
       "product_buying_price": "1212",
       "retail_price": "14000",
-      "wholesale_price": "1400"
+      "image": "1400"
     },
     {
       "id": "68",
@@ -430,7 +286,7 @@
       "product_name": "Regulators 6kgs",
       "product_buying_price": "450",
       "retail_price": "700",
-      "wholesale_price": "700"
+      "image": "700"
     },
     {
       "id": "60",
@@ -438,7 +294,7 @@
       "product_name": "Regulators Capson",
       "product_buying_price": "786",
       "retail_price": "1100",
-      "wholesale_price": "1100"
+      "image": "1100"
     },
     {
       "id": "61",
@@ -446,7 +302,7 @@
       "product_name": "Regulators Oilibya",
       "product_buying_price": "980",
       "retail_price": "1100",
-      "wholesale_price": "1100"
+      "image": "1100"
     },
     {
       "id": "77",
@@ -454,7 +310,7 @@
       "product_name": "Safari 2t 1/2",
       "product_buying_price": "145",
       "retail_price": "230",
-      "wholesale_price": "230"
+      "image": "230"
     },
     {
       "id": "86",
@@ -462,7 +318,7 @@
       "product_name": "Safari 2t 4ltrs",
       "product_buying_price": "1050",
       "retail_price": "1250",
-      "wholesale_price": "1250"
+      "image": "1250"
     },
     {
       "id": "85",
@@ -470,39 +326,23 @@
       "product_name": "Safari 2t1ltr",
       "product_buying_price": "210",
       "retail_price": "300",
-      "wholesale_price": "300"
-    },
-    {
-      "id": "26",
-      "product_type": "13kg",
-      "product_name": "Sea 13kg Cylinder",
-      "product_buying_price": "2500",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "300"
     },
     {
       "id": "27",
       "product_type": "13kg",
-      "product_name": "Sea 13kg Refill",
+      "product_name": "Sea 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "5",
-      "product_type": "13kg",
-      "product_name": "Sea 6kg Cylinder",
-      "product_buying_price": "2500",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "6",
       "product_type": "6kg",
-      "product_name": "Sea 6kg Refill",
+      "product_name": "Sea 6kg",
       "product_buying_price": "1104",
       "retail_price": "2700",
-      "wholesale_price": "2700"
+      "image": "2700"
     },
     {
       "id": "76",
@@ -510,7 +350,7 @@
       "product_name": "SHEll ADVANCE AX5 1lt",
       "product_buying_price": "280",
       "retail_price": "350",
-      "wholesale_price": "350"
+      "image": "350"
     },
     {
       "id": "75",
@@ -518,111 +358,55 @@
       "product_name": "SHELL R3 1lt",
       "product_buying_price": "280",
       "retail_price": "50000",
-      "wholesale_price": "50000"
-    },
-    {
-      "id": "40",
-      "product_type": "13kg",
-      "product_name": "Supa 13kg Cylinder",
-      "product_buying_price": "3700",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "50000"
     },
     {
       "id": "41",
       "product_type": "13kg",
-      "product_name": "Supa 13kg Refill",
+      "product_name": "Supa 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "53",
-      "product_type": "13kg",
-      "product_name": "Supa 3kg Cylinder",
-      "product_buying_price": "1500",
-      "retail_price": "2000",
-      "wholesale_price": "2000"
-    },
-    {
-      "id": "19",
-      "product_type": "6kg",
-      "product_name": "Supa 6kg Cylinder",
-      "product_buying_price": "2800",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "20",
       "product_type": "6kg",
-      "product_name": "Supa 6kg Refill",
+      "product_name": "Supa 6kg",
       "product_buying_price": "1104",
       "retail_price": "1400",
-      "wholesale_price": "1250"
-    },
-    {
-      "id": "42",
-      "product_type": "13kg",
-      "product_name": "Tosha 13kg Cylinder",
-      "product_buying_price": "3700",
-      "retail_price": "4200",
-      "wholesale_price": "4200"
+      "image": "1250"
     },
     {
       "id": "43",
       "product_type": "13kg",
-      "product_name": "Tosha 13kg Refill",
+      "product_name": "Tosha 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "21",
-      "product_type": "6kg",
-      "product_name": "Tosha 6kg Cylinder",
-      "product_buying_price": "2800",
-      "retail_price": "3000",
-      "wholesale_price": "3000"
+      "image": "2700"
     },
     {
       "id": "22",
       "product_type": "6kg",
-      "product_name": "Tosha 6kg Refill",
+      "product_name": "Tosha 6kg",
       "product_buying_price": "1104",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "34",
-      "product_type": "13kg",
-      "product_name": "Total 13kg Cylinder",
-      "product_buying_price": "4200",
-      "retail_price": "5000",
-      "wholesale_price": "5000"
+      "image": "2700"
     },
     {
       "id": "35",
       "product_type": "13kg",
-      "product_name": "Total 13kg Refill",
+      "product_name": "Total 13kg",
       "product_buying_price": "2392",
       "retail_price": "2700",
-      "wholesale_price": "2700"
-    },
-    {
-      "id": "13",
-      "product_type": "6kg",
-      "product_name": "Total 6kg Cylinder",
-      "product_buying_price": "3000",
-      "retail_price": "3200",
-      "wholesale_price": "3200"
+      "image": "2700"
     },
     {
       "id": "14",
       "product_type": "6kg",
-      "product_name": "Total 6kg Refill",
+      "product_name": "Total 6kg",
       "product_buying_price": "1104",
       "retail_price": "1400",
-      "wholesale_price": "1250"
+      "image": "1250"
     }
   ],
   "product_type": [
