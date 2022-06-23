@@ -1,5 +1,5 @@
 {
-  "product":[
+  "product": [
     {
       "id": "67",
       "product_type": "3kg",
@@ -625,7 +625,6 @@
       "wholesale_price": "1250"
     }
   ],
-  
   "product_type": [
     {
       "id": 1,
@@ -643,9 +642,7 @@
       "id": 4,
       "body": "oil"
     }
-  ]
-  ,
-  
+  ],
   "users": [
     {
       "id": 1,
@@ -668,5 +665,4 @@
       "password": "t1"
     }
   ]
-  
-  }
+}

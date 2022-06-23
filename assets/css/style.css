@@ -1,9 +1,49 @@
-nav{
+
+
+nav {
     display: flex;
     justify-content: space-between;
+
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
-nav > .links > ul{
+
+nav>.links>ul {
     display: flex;
     gap: 10px;
+    margin-right: 20px;
     list-style: none;
+}
+
+.header {
+    background-image: url("https://media.gettyimages.com/photos/high-angle-view-of-text-on-cobblestone-walkway-at-night-picture-id574913365?s=2048x2048");
+    /* background-image: url("https://www.ship-technology.com/wp-content/uploads/sites/8/2020/11/shutterstock_713663425-1.jpg"); */
+    background-size: cover;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.content>.product {
+    border: 2px solid rgb(209, 207, 207);
+    padding: 5px;
+    margin: 5px;
+}
+
+.content>.product>img {
+    width: 40vh;
+}
+.add_to_cart{
+    background-color: #fff;
+    border-color: none;
+    border-radius: 5px;
 }
