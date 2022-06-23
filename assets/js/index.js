@@ -14,7 +14,7 @@ let amount = 0;
 let cartAmount = document.createElement("button");
 let links = document.getElementById("links");
 
-links.addEventListener("click", () => {
+cartAmount.addEventListener("click", () => {
   // heading
   alert("You are about to clear the Cart");
   amount = 0;
@@ -64,8 +64,12 @@ function getProduct(type) {
           let productDiv = document.createElement("div");
           productDiv.className = "product";
 
+          let img_divvv = document.createElement("div");
+          img_divvv.className = "img_divvv";
+
           let img = document.createElement("img");
           img.src = data[i].image;
+        //   img_divvv.appendChild(img)
 
           let p1 = document.createElement("p");
           p1.innerText = data[i].product_name;
@@ -98,12 +102,6 @@ function getProduct(type) {
 
             cartAmount.innerText = "Cart : " + amount;
             links.appendChild(cartAmount);
-
-            // if (btnValue === "Add to Cart") {
-            //   btn.innerText = "Ksh. " + data[i].retail_price;
-            // } else {
-            //   btn.innerText = "Add to Cart";
-            // }
           });
 
           btn.addEventListener("mouseover", () => {
