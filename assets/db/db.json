@@ -628,19 +628,19 @@
   "product_type": [
     {
       "id": 1,
-      "body": "6kg"
+      "type": "6KG"
     },
     {
       "id": 2,
-      "body": "13kg"
+      "type": "13KG"
     },
     {
       "id": 3,
-      "body": "accessories"
+      "type": "Accessory"
     },
     {
       "id": 4,
-      "body": "oil"
+      "type": "Oil"
     }
   ],
   "users": [
