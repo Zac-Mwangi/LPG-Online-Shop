@@ -64,7 +64,6 @@ function getProduct_type() {
     });
 }
 
-let ar = [];
 function getProduct(type) {
   fetch(url + "product/")
     .then(function (response) {
@@ -78,7 +77,6 @@ function getProduct(type) {
         let prd_type = data[i].product_type;
         let prd_name = data[i].product_name;
         if (prd_type.toLowerCase() === type.toLowerCase()) {
-          ar.push(prd_name);
           let productDiv = document.createElement("div");
           productDiv.className = "product";
 
@@ -99,11 +97,14 @@ function getProduct(type) {
           p3.innerText = "Ksh. " + data[i].retail_price;
 
           let btn = document.createElement("button");
-          btn.innerText = "Add to Cart";
+          btn.innerText = "Add to Cart   ";
           btn.className = "add_to_cart";
           btn.id = "add_to_cart";
 
           let img_cart = document.createElement("img");
+          img_cart.src = "https://cdn-icons-png.flaticon.com/512/3737/3737151.png"
+
+          btn.appendChild(img_cart)
 
           productDiv.appendChild(img);
           productDiv.appendChild(p1);
@@ -123,13 +124,12 @@ function getProduct(type) {
           });
 
           btn.addEventListener("mouseover", () => {
-            // h.style.color = "#EDD927";
-            btn.style.backgroundColor = "linear-gradient(45deg, #000, #EC4067)";
+            btn.style.color = "#000";
+            
           });
           btn.addEventListener("mouseout", () => {
-            // h.style.color = "white";
-            btn.style.backgroundColor =
-              "linear-gradient(45deg, #8b7c7c, #EC4067)";
+            btn.style.color = "white";
+            
           });
         }
       }

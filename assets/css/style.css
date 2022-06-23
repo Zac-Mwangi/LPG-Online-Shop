@@ -13,6 +13,7 @@ nav {
     background-color: rgba(39, 38, 38, 0.904);
     position: fixed;
     height: 75px;
+    padding-top: 10px;
     align-content: center;
     width: 100%;
     font-size: 20px;
@@ -67,10 +68,15 @@ nav>.links>ul {
     border-radius: 5px;
     cursor: pointer;
     padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .add_to_cart>img {
-    width: 13px
+    width: 20px;
+    
 }
 
 button {
@@ -114,5 +120,5 @@ button {
 }
 
 .footer1>.pplast {
-    /* margin-bottom: 20px; */
+    margin-bottom: 10px;
 }
