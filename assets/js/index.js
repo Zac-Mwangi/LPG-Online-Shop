@@ -1,10 +1,14 @@
 // GET NAV BAR
 
+window.addEventListener("DOMContentLoaded", (event) => {
+//   console.log("DOM fully loaded and parsed");
+
+  getProduct_type();
+
+  getProduct("6kg");
+});
+
 const url = "http://localhost:3000/";
-
-getProduct_type();
-
-getProduct("6kg")
 
 function getProduct_type() {
   fetch(url + "product_type/")
@@ -75,12 +79,12 @@ function getProduct(type) {
           content.appendChild(productDiv);
 
           btn.addEventListener("click", () => {
-            let btnValue = btn.innerHTML
+            let btnValue = btn.innerHTML;
 
-            if(btnValue === "Add to Cart"){
-                btn.innerText = "Ksh. " + data[i].retail_price;
-            }else{
-                btn.innerText = "Add to Cart";
+            if (btnValue === "Add to Cart") {
+              btn.innerText = "Ksh. " + data[i].retail_price;
+            } else {
+              btn.innerText = "Add to Cart";
             }
           });
         }
