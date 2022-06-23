@@ -122,3 +122,13 @@ button {
 .footer1>.pplast {
     margin-bottom: 10px;
 }
+
+#ph{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.product_content{
+    background-color: #f6f5f5;
+}

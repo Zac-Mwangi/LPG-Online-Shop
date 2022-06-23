@@ -101,15 +101,21 @@ function getProduct(type) {
           btn.className = "add_to_cart";
           btn.id = "add_to_cart";
 
+
+          let br = document.createElement("br")
+          let br2 = document.createElement("br")
+
           let img_cart = document.createElement("img");
           img_cart.src = "https://cdn-icons-png.flaticon.com/512/3737/3737151.png"
 
           btn.appendChild(img_cart)
 
           productDiv.appendChild(img);
+          productDiv.appendChild(br);
           productDiv.appendChild(p1);
           productDiv.appendChild(p2);
           productDiv.appendChild(p3);
+          productDiv.appendChild(br2);
           productDiv.appendChild(btn);
 
           content.appendChild(productDiv);
