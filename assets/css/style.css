@@ -19,7 +19,7 @@ nav>.links>ul {
     color: #fff;
     margin-right: 20px;
     align-items: center;
-    cursor:pointer;
+    cursor: pointer;
 
     list-style: none;
 }
@@ -73,6 +73,22 @@ button {
     border-radius: 6px;
     padding: 10px 20px;
     text-decoration: none;
-    cursor:pointer;
+    cursor: pointer;
     color: #fff;
+}
+
+.header-title {
+    position: absolute;
+    top: 7rem;
+    left: 3rem;
+    letter-spacing: 3;
+    font-weight: bolder;
+    font-weight: bolder;
+    font-size: 52px;
+    color: #fff;
+    text-shadow: 4px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.header-title>span {
+    color: #EC4067;
 }
