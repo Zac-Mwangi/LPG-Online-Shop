@@ -30,15 +30,12 @@
 
 # GitHub Code
 
-https://github.com/Zac-Mwangi/MySitePhase0IP
+https://github.com/Zac-Mwangi/LPG-Online-Shop
 
 #   LIve Link
 
-https://zac-mwangi.github.io/MySitePhase0IP/
+<!-- https://zac-mwangi.github.io/MySitePhase0IP/ -->
 
-#   Figma Design
-
-https://www.figma.com/proto/jO2EUgUg51SjFuDK7qy31m/Untitled?node-id=1%3A2
 
 # Support
     For any support concerning the project 
