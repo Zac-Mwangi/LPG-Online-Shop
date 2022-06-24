@@ -17,7 +17,7 @@ let links = document.getElementById("links");
 
 cartAmount.addEventListener("click", () => {
   // heading
-  alert("You are about to clear the Cart");
+  alert("You are about to clear the Cart ");
   amount = 0;
   cartAmount.innerText = "Cart : " + amount;
   links.appendChild(cartAmount);
