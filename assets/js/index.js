@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 });
 
 // const url = "http://localhost:3000/";
-const url = "https://zac-mwangi.github.io/LPG-Online-Shop/";
+const url = "https://zac-mwangi.github.io/LPG-Online-Shop/db.json/";
 let amount = 0;
 
 let cartAmount = document.createElement("button");
