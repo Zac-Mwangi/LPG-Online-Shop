@@ -8,7 +8,8 @@ window.addEventListener("DOMContentLoaded", (event) => {
   getProduct("6kg");
 });
 
-const url = "http://localhost:3000/";
+// const url = "http://localhost:3000/";
+const url = "https://zac-mwangi.github.io/LPG-Online-Shop/";
 let amount = 0;
 
 let cartAmount = document.createElement("button");
