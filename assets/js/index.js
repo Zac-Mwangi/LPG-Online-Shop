@@ -137,6 +137,6 @@ function getProduct(type) {
           });
         }
       }
-      //   console.log(ar)
+      //   console.log(arr)
     });
 }
