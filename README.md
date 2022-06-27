@@ -26,7 +26,7 @@
 
 1. Clone the Repository
 2. Install the json live server (instruction at https://www.javatpoint.com/json-server)
-3. Start the server 
+3. Start the server while being in the assets/db folder 
 4. Run the code using any browser
 
 
