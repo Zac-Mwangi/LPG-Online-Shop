@@ -85,7 +85,7 @@ function getProduct(type) {
           img.src = data[i].image;
           //   img_divvv.appendChild(img)
 
-          let p1 = document.createElement("p");
+          let p1 = document.createElement("h2");
           p1.innerText = data[i].product_name;
 
           let p2 = document.createElement("p");
@@ -111,7 +111,7 @@ function getProduct(type) {
           productDiv.appendChild(img);
           productDiv.appendChild(br);
           productDiv.appendChild(p1);
-          productDiv.appendChild(p2);
+          // productDiv.appendChild(p2);  
           productDiv.appendChild(p3);
           productDiv.appendChild(br2);
           productDiv.appendChild(btn);
