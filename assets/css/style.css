@@ -47,6 +47,7 @@ nav>.links>ul {
 
 .content>.product {
     border: 2px solid rgb(209, 207, 207);
+    border-radius: 10px;
     padding: 5px;
     margin: 5px;
     width: 40vh;
