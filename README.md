@@ -5,7 +5,7 @@
 
 # Description
     
-    Portfolio website using HTML, Js and CSS
+    Online store website using HTML, Js and CSS. A website where you can purchase LPG products including Oils, LPG gas and other accessories
 
 # Visuals
 
@@ -22,11 +22,13 @@
 
 # Installation
 
-    To run tests, run the following command
+    To run test
 
-```bash
-  npm run test
-```
+1. Clone the Repository
+2. Install the json live server (instruction at https://www.javatpoint.com/json-server)
+3. Start the server 
+4. Run the code using any browser
+
 
 # GitHub Code
 
@@ -34,13 +36,11 @@ https://github.com/Zac-Mwangi/LPG-Online-Shop
 
 #   LIve Link
 
-<!-- https://zac-mwangi.github.io/MySitePhase0IP/ -->
-
 
 # Support
     For any support concerning the project 
 
-    Email Address : zackmwangi998@gmail.com
+    Email Address : zacharia.mwangi@student.moringaschool.com
 
 # Contributing
 
